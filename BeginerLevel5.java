@@ -1,9 +1,5 @@
 package Java_8;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.Optional;
-
 interface im{
     void name(String str);
 }
